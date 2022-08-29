@@ -10,7 +10,7 @@ export const config = {
     aws_media_bucket: "my-091294840794-bucket-dev",
   },
   jwt: {
-    secret: " ",
+    secret: "Hello World ",
   },
   prod: {
     username: "",
